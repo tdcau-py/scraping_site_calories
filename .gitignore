@@ -1,0 +1,7 @@
+# ignore folders
+data/
+
+# ignore files
+*.json
+*.html
+..gitignore.un~
